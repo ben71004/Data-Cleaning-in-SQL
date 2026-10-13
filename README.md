@@ -6,7 +6,7 @@ This project cleans a raw Nashville housing sales dataset using T-SQL in SQL Ser
 ## Dataset
 The data is a Nashville housing sales dataset imported from Excel into a database called PortfolioProject, in a table named NashvilleHousing. Each row is a property sale, with fields such as ParcelID, PropertyAddress, OwnerAddress, SaleDate, SalePrice, SoldAsVacant, and LegalReference.
 
-**Source:** [dataset name](paste-link-here)
+**Source:** https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx
 
 ## Tools
 * SQL Server Express
